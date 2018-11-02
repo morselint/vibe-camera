@@ -4,7 +4,7 @@ var words = [
   'day.',
   'vacation.',
   'week.',
-  'weeding.',
+  'wedding.',
   'road trip.',
   'birthday.',
   'night out.',
