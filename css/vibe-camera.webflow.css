@@ -5,8 +5,9 @@ body {
   line-height: 20px;
 }
 
-a:link, a:visited {
+a:visited {
 text-decoration: none;
+color: #b2b2b2;
 }
 
 h1 {
