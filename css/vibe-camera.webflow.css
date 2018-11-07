@@ -6,6 +6,7 @@ body {
 }
 a:visited {
     color: #b2b2b2;
+    text-decoration: none;
 }
 
 h1 {
