@@ -772,9 +772,6 @@ h4 {
     -ms-grid-row-align: start;
     align-self: start;
   }
-  .p2.one-line {
-    margin-top: 139px;
-  }
   .grid-4 {
     grid-row-gap: 50px;
     -ms-grid-columns: 1fr;
