@@ -2,9 +2,9 @@
 
 var words = [
   'day.',
-  'city.',
-  'life!'
  /*! 'vacation.',
+ 'city.',
+  'life!'
   'week.',
   'wedding.',
   'road trip.',
@@ -69,11 +69,11 @@ var typed = new Typed('.events strong', {
   strings: words,
   typeSpeed: 40,
   backSpeed: 500,
-  fadeOut: true,
-  loop: true,
+  fadeOut: false,
+  loop: false,
   showCursor: false,
   backDelay: 1500,
-  startDelay: 500
+  startDelay: 0
 });
 
 })();
